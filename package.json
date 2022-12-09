@@ -1,0 +1,20 @@
+{
+  "name": "node-nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeny-Chabrovsky/node-nodejs-file-manager.git"
+  },
+  "author": "Eugeni Chabrouski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeny-Chabrovsky/node-nodejs-file-manager/issues"
+  },
+  "homepage": "https://github.com/Evgeny-Chabrovsky/node-nodejs-file-manager#readme"
+}
